@@ -1,15 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:git_repositories/app_module.dart';
 
 void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      home: Container(),
-    );
-  }
+  runApp(AppModule());
 }
