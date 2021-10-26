@@ -1,6 +1,6 @@
 # git_repositories
 
-Show simple way to use Modular with Bloc pattern.
+Show simple way to use Modular with Bloc pattern and infinity scroll.
 
 - Libs
   - http
